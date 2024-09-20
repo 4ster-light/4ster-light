@@ -1,4 +1,6 @@
-# 👋 Hi, my name is David Vivar Bogónez
+[](https://https://github.com/4ster-light/4ster-light/1500x500.jpeg)
+
+# Hi, my name is David Vivar Bogónez
 
 I'm a **Spanish 17-year-old boy** with a passion for `Computer Science` and `Artificial Intelligence` that might be bordering on obsession—in a good way of course 😊.
 Technology has always fascinated me, but my interest in programming is relatively recent. I started exploring it just three months ago at the moment I write this (started at June 2024).
