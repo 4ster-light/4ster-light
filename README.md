@@ -1,4 +1,4 @@
-[](https://github.com/4ster-light/4ster-light/blob/main/1500x500.jpeg)
+![banner](https://github.com/4ster-light/4ster-light/blob/main/banner.jpeg)
 
 # Hi, my name is David Vivar Bogónez
 
