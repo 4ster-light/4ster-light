@@ -3,9 +3,9 @@
 ## ✅ Best Projects
 
 - [ArtSCII](https://github.com/4ster-light/ascii-converter): An image to Ascii Art conversion website developed in Golang.
-- [Particle Simulator](https://github.com/4ster-light/particles): A particle simulator developed in Lua with the LÖVE, best known as the Love2D game engine.
+- [Particles](https://github.com/4ster-light/particles): A particle simulator developed in Lua with the LÖVE, best known as the Love2D game engine.
 - [Phocus](https://github.com/4ster-light/phocus): A TUI app for maintinning better focus built in Golang.
-- [HS Matrix](https://github.com/4ster-light/hsmatrix): An alternative to the CMatrix famous terminal program built in Haskell.
+- [Matrix](https://github.com/4ster-light/matrix): An alternative to the CMatrix famous terminal program built in Haskell.
 
 ## 📈 GitHub Stats
 
