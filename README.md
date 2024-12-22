@@ -10,9 +10,3 @@
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ster-light&layout=compact&card_width=400&hide_border=true&theme=dark" alt="Most Used Languages" />
-
-## My Dotfiles
-
-I use NixOS as my operating system in my main computer, here I store all the Nix files that define that configuration.
-
-- <https://github.com/4ster-light/dotfiles>
