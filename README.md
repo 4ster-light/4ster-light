@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="✰λster✰" src="https://github.com/user-attachments/assets/2d707d02-37a7-4b96-9fa2-9edc018edd51" />
+<img width="1500" height="500" alt="✰λster✰" src="https://github.com/user-attachments/assets/f0113a35-af00-4046-80fe-fe703ce8675f" />
 
 # Hi my name is Aster, also known as David Vivar
 
