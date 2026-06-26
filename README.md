@@ -1,3 +1,5 @@
-# Hi my name is Aster, also known as David Vivar
+# Hi, I'm Aster (David Vivar)
 
-I am a computer engineering undergraduate at [ESI](https://esi.uclm.es/) in Ciudad Real, Spain. I am very passionate about software and computers in general, I use technologies like Python, Rust, Typescript, Kotlin and Preact.
+I'm a Computer Engineering undergraduate at [ESI](https://esi.uclm.es) in Ciudad Real, Spain. I also maintain several open-source projects in my free time.
+
+I'm interested in software and computers in general, and I enjoy building things with Python, Rust, TypeScript, Deno, C++, and Preact.
