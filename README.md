@@ -1,5 +1,5 @@
 # Hi, I'm Aster (David Vivar)
 
-I'm a Computer Engineering undergraduate at [ESI](https://esi.uclm.es) in Ciudad Real, Spain. I also maintain several open-source projects in my free time.
+Computer Engineering student at [ESI](https://esi.uclm.es), Ciudad Real, Spain.  
 
-I'm interested in software and computers in general, and I enjoy building things with Python, Rust, TypeScript, Deno, C++, and Preact.
+I maintain open-source projects, write about cybersecurity and programming, and work mainly with Python, Rust, TypeScript, Deno, C++, and Preact.
