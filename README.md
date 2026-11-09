@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/4ster-light.png" width="110" alt="✰λster✰" />
-
-# ✰λster✰
-
 **David Vivar Bogónez** · open-source developer
 
 Computer Engineering student at [ESI-UCLM](https://esi.uclm.es) · Ciudad Real, Spain
