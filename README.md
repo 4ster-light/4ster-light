@@ -46,7 +46,6 @@ I build open-source tools, mostly in Rust and Python.
 | **[bfcompiler](https://github.com/4ster-light/bfcompiler)** | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square) | Full Brainfuck toolchain: compiler and REPL |
 | **[perlin](https://github.com/4ster-light/perlin)** | ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff&style=flat-square) | Perlin-noise landscape generator |
 | **[pmatrix](https://github.com/4ster-light/pmatrix)** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) | Matrix digital rain for the terminal |
-| **[go-pane](https://github.com/4ster-light/go-pane)** | ![QML](https://img.shields.io/badge/QML-41CD52?logo=qt&logoColor=fff&style=flat-square) | KDE Plasma 6 widget for OpenCode Go usage |
 
 **[All projects](https://github.com/4ster-light?tab=repositories)** · **[Writing](https://4ster.dev/blog)** · **[Sponsor](https://github.com/sponsors/4ster-light)**
 
