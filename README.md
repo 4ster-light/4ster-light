@@ -47,7 +47,6 @@ I build open-source tools, mostly in Rust and Python.
 | **[http](https://github.com/4ster-light/http)**             | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)          | HTTP/1.1 and WebSocket protocols from scratch with documentation and offensive demos |
 | **[bfcompiler](https://github.com/4ster-light/bfcompiler)** | ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)          | Full Brainfuck toolchain: compiler, interpreter, REPL and web playground             |
 | **[perlin](https://github.com/4ster-light/perlin)**         | ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff&style=flat-square)    | Perlin-noise infinite landscape  generator with POV immersion                        |
-| **[pmatrix](https://github.com/4ster-light/pmatrix)**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) | Matrix digital rain for the terminal                                                 |
 
 **[All projects](https://github.com/4ster-light?tab=repositories)** · **[Writing](https://4ster.dev/blog)** · **[Sponsor](https://github.com/sponsors/4ster-light)**
 
